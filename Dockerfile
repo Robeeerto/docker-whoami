@@ -1,9 +1,11 @@
 FROM ruby:3.1.2-alpine
-LABEL maintainer=robertchang0722@gmail.com
+ENV AUTHOR=robertchang
 
 RUN apk add --update --no-cache \
     build-base \
     curl
+
+WORKDIR /app
 
 COPY . .
 
