@@ -4,7 +4,10 @@
 
 [Docker Hub 網址](https://hub.docker.com/repository/docker/robeeerto/whoami/general)
 
-幫助新手可以釐清 Container 內部的 IP 位置、 HOST 的名稱以及映像檔的環境變數
+## 學習重點
+1. 容器的 IP 位置
+2. 容器的 HOST 名稱預設為容器的 ID
+3. 環境變數從映像檔傳入容器的概念
 
 
 ## 使用方式
