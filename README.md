@@ -4,7 +4,7 @@
 
 [Docker Hub 網址](https://hub.docker.com/repository/docker/robeeerto/whoami/general)
 
-幫助新手可以釐清 Container 內部的 IP 位置以及 HOST 的名稱
+幫助新手可以釐清 Container 內部的 IP 位置、 HOST 的名稱以及映像檔的環境變數
 
 
 ## 使用方式
